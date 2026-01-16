@@ -1,2 +1,6 @@
-# Advanced_Python
-Advanced Python programs demonstrating object-oriented programming, error handling, and performance-oriented coding practices.
+# Advanced Python
+This repository covers advanced Python concepts used in real-world applications.
+
+## Topics Covered
+- Object-Oriented Programming (OOP)
+- Inheritance, Polymorphism, Encapsulation
